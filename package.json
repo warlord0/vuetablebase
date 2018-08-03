@@ -1,0 +1,20 @@
+{
+  "name": "@warlord0/vuetablebase",
+  "version": "0.1.0",
+  "description": "Vuetable-2 with Bootstrap 4",
+  "main": "index.js",
+  "author": "Warlord0",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "vue",
+    "component",
+    "table",
+    "datatable",
+    "pagination-components",
+    "json"
+  ],
+  "dependencies": {
+    "vuetable-2": "^2.0.0-beta.1"
+  }
+}
