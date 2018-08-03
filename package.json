@@ -1,10 +1,14 @@
 {
   "name": "@warlord0/vuetablebase",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vuetable-2 with Bootstrap 4",
   "main": "index.js",
   "author": "Warlord0",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warlord0/vuetablebase.git"
+  },
   "private": false,
   "keywords": [
     "vue",
